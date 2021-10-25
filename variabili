@@ -1,4 +1,4 @@
 Nickname: ldapservice.srv.webapi
 path: /ldapservice-webapi
-ReplicaSet: 5
+ReplicaSet: 4
 Container_Registry_Base: unitn.icts

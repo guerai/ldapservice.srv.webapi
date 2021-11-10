@@ -1,4 +1,4 @@
-Nickname: ldapservice.srv.webapi-noHPA
-path: /ldapservice-webapi-noHpa
+Nickname: ldapservice.srv.webapi
+path: /ldapservice-webapi
 ReplicaSet: 1
 Container_Registry_Base: unitn.icts

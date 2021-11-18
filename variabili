@@ -2,4 +2,3 @@ Nickname: ldapservice.srv.webapi
 path: /ldapservice-srv-webapi-test
 ReplicaSet: 1
 Container_Registry_Base: unitn.icts
-Autoscaler: true
